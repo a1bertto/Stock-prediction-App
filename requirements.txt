@@ -1,5 +1,5 @@
 streamlit==0.82.0
-Pillow @ file:///C:/ci/pillow_1603823068645/work
+Pillow==8.2.0
 yfinance==0.1.59
 plotly==4.14.3
-fbprophet @ file:///D:/bld/fbprophet_1599365958928/work
+fbprophet==0.7.1
