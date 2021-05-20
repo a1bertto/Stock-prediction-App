@@ -1,6 +1,5 @@
 streamlit 
-
 yfinance 
 fbprophet 
 plotly 
-PIL 
+
