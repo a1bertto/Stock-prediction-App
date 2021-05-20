@@ -15,8 +15,8 @@ TODAY = date.today().strftime("%Y-%m-%d")
 # Adding a title,subtitle and cover image
 st.title('Stock Prediction Web Application')
 st.subheader('By Albert A. Arthur')
-image = Image.open("C:/Users/alber/Desktop/FYP/coverImage.png")
-st.image(image, use_column_width=True)
+# image = Image.open("C:/Users/alber/Desktop/FYP/coverImage.png")
+# st.image(image, use_column_width=True)
 
 # Declaring stock list
 stocks = ('TSLA', 'GOOG', 'AAPL', 'MSFT', 'GME', 'ALPP', 'FB', 'TWTR', 'NFLX', 'NIO', 'SNAP')
