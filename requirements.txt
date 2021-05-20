@@ -1,6 +1,6 @@
 streamlit 
 pystan
 yfinance 
-fbprophet 
+fbprophet==0.7.1
 plotly 
 
