@@ -1,5 +1,5 @@
 streamlit 
-from datetime import date
+
 yfinance 
 fbprophet 
 plotly 
